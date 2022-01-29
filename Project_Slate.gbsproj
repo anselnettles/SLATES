@@ -94,7 +94,7 @@
                 15,
                 15,
                 15,
-                15,
+                0,
                 15,
                 15,
                 15,
@@ -172,11 +172,11 @@
                 0,
                 0,
                 0,
-                15,
-                15,
-                15,
-                15,
                 15,
+                0,
+                0,
+                0,
+                0,
                 15,
                 15,
                 15,
@@ -192,11 +192,11 @@
                 0,
                 0,
                 0,
-                15,
                 15,
-                15,
                 0,
-                15,
+                0,
+                0,
+                0,
                 15,
                 15,
                 15,
@@ -213,12 +213,10 @@
                 0,
                 0,
                 15,
-                15,
-                15,
                 0,
-                15,
-                15,
-                15,
+                0,
+                0,
+                0,
                 15,
                 15,
                 15,
@@ -236,9 +234,9 @@
                 15,
                 15,
                 0,
-                15,
-                15,
-                15,
+                0,
+                0,
+                0,
                 15,
                 15,
                 15,
@@ -256,9 +254,9 @@
                 15,
                 15,
                 0,
-                15,
-                15,
-                15,
+                0,
+                0,
+                0,
                 15,
                 15,
                 15,
@@ -276,14 +274,9 @@
                 15,
                 15,
                 0,
-                15,
-                15,
-                15,
-                15,
-                15,
-                15,
-                15,
-                15,
+                0,
+                0,
+                0,
                 15,
                 15,
                 15,
@@ -300,7 +293,10 @@
                 15,
                 15,
                 15,
+                0,
+                0,
                 15,
+                0,
                 15,
                 15,
                 15,
@@ -317,6 +313,10 @@
                 15,
                 15,
                 15,
+                0,
+                0,
+                0,
+                0,
                 15,
                 15,
                 15,
@@ -1133,7 +1133,8 @@
             "playerHit2Script": [],
             "playerHit3Script": [],
             "playerSpriteSheetId": "894a4e39-ea8c-4dc9-a929-d1253049cfc8",
-            "autoFadeEventCollapse": true
+            "autoFadeEventCollapse": true,
+            "notes": "Comment by Ami"
         }
     ],
     "backgrounds": [
@@ -9389,6 +9390,106 @@
             "animSpeed": 15
         },
         {
+            "id": "abe52258-335d-427f-b023-3ba4b956aa30",
+            "name": "stack4_v3",
+            "numFrames": 16,
+            "type": "animated",
+            "filename": "stack4_v3.png",
+            "checksum": "7488339c5add89de8616caef48263c30c502cf8c",
+            "width": 256,
+            "height": 32,
+            "states": [
+                {
+                    "id": "513957a3-ff46-4bea-9113-92fdce9f2d45",
+                    "name": "",
+                    "animationType": "multi_movement",
+                    "flipLeft": true,
+                    "animations": [
+                        {
+                            "id": "8094133a-1a42-405f-ab4a-98f371e6cfe0",
+                            "frames": [
+                                {
+                                    "id": "e2e2ef66-bc2b-44ed-b2e1-f7469ee01511",
+                                    "tiles": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": "d09d67a4-d87c-412a-a538-fa332168ac56",
+                            "frames": [
+                                {
+                                    "id": "64f01711-b2ba-4ba0-8df3-d21e25729ce9",
+                                    "tiles": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": "4767da2b-559d-47a2-b92a-0988cce015ad",
+                            "frames": [
+                                {
+                                    "id": "837e9a76-b4b2-4c4d-b345-34d0101af61e",
+                                    "tiles": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": "b51350f7-6872-4b80-acc5-5136b391fbda",
+                            "frames": [
+                                {
+                                    "id": "5d919921-cfad-4906-b405-85314589fd5b",
+                                    "tiles": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": "9d826618-7628-4ec3-a44a-35b7fb9a283b",
+                            "frames": [
+                                {
+                                    "id": "dd0730c5-7480-4468-963c-b889831870e9",
+                                    "tiles": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": "93c6dcd7-01f3-43d3-8c89-fb78a01a97c6",
+                            "frames": [
+                                {
+                                    "id": "3857bba7-b01f-44be-874e-9703090881ec",
+                                    "tiles": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": "00928c1b-cbc7-42d6-94dd-6b9fbd773e9d",
+                            "frames": [
+                                {
+                                    "id": "eab17d7f-1d7c-4e45-a930-a05fb7197216",
+                                    "tiles": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": "c4ca1123-95b6-4716-9f76-af9743694aad",
+                            "frames": [
+                                {
+                                    "id": "cc54c6b1-bce0-4df6-8881-dbdb1c0d3e55",
+                                    "tiles": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "numTiles": 0,
+            "canvasWidth": 32,
+            "canvasHeight": 32,
+            "boundsX": 0,
+            "boundsY": 0,
+            "boundsWidth": 16,
+            "boundsHeight": 16,
+            "animSpeed": 15
+        },
+        {
             "id": "28f34451-853b-4b8a-b2d9-91ee30fbcd32",
             "name": "stack5",
             "numFrames": 2,
@@ -10260,9 +10361,9 @@
         "startDirection": "left",
         "showCollisions": true,
         "showConnections": true,
-        "worldScrollX": 450,
-        "worldScrollY": 85,
-        "zoom": 146.69750082492828,
+        "worldScrollX": 1497,
+        "worldScrollY": 514,
+        "zoom": 346.6975008249283,
         "customColorsEnabled": false,
         "sgbEnabled": false,
         "customHead": "",
@@ -10291,8 +10392,8 @@
         "playerPaletteId": "",
         "navigatorSplitSizes": [
             30,
-            137,
-            566
+            179,
+            747
         ],
         "showNavigator": true,
         "defaultFontId": "4bd653f0-e08d-424e-9e5b-c1f3aaa21e47",
