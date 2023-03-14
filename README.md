@@ -5,7 +5,7 @@ SLATES is a product of a 48 hour game jam with no prior experience with making a
 
 ![Title screen](https://user-images.githubusercontent.com/70949716/198998350-68bf3b79-83ce-4d7c-b9c6-a5e698a3a9bd.jpeg)
 
-Play this game in your browser at https://amiddst.itch.io/slates
+Play this game in your browser at https://anselnettles.itch.io/slates
 
 # Controls 
 ᐃ — Up / 8 <br>
